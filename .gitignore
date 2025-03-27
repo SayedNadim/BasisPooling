@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+**data**
+**.idea**
+**results**
+
+**.pth**
+**.pt**
+**.onnx**
